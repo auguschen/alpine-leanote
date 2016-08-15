@@ -1,2 +1,2 @@
 # alpine-leonote
-leonote base alpine
+leonote based on alpine
