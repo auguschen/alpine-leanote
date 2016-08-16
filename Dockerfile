@@ -6,4 +6,4 @@ RUN apk update && rm -rf /tmp/leanote.tar.gz && rm -rf /opt/leanote && mkdir -p 
 
 EXPOSE 9000
 
-CMD /opt/leanote/bin/run.sh
+CMD sh /opt/leanote/bin/run.sh
